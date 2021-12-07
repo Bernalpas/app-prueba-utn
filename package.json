@@ -1,0 +1,18 @@
+{
+  "name": "back-19",
+  "version": "1.0.0",
+  "description": "Inicio mi aplicación backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Berni",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3"
+  }
+}
